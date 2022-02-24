@@ -1,18 +1,10 @@
 {
   "clientes": [
     {
-      "nombre": "Maximiliano",
-      "empresa": "WebCamp",
-      "email": "guillermo.manjarrez.1211@gmail.com",
-      "telefono": "8186587603",
-      "notas": "notas",
-      "id": 2
-    },
-    {
       "nombre": "Bruno",
       "empresa": "WebCamp",
-      "email": "guillermo.manjarrez.1211@gmail.com",
-      "telefono": "8186587603",
+      "email": "bruno@mail.com",
+      "telefono": "1478965232",
       "notas": "notas",
       "id": 3
     }
